@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<humor>
+  <chiste calificacion="malo">
+    <pregunta>Papapapaco. ¿Eres tartamudo?.</pregunta>
+    <respuesta>Yo no, mi padre. Y el del Registro Civil, un mamoncete</respuesta>
+  </chiste>
+  <chiste calificacion="malisimo">
+    <pregunta>Mamá, ¿por que te casaste con papá?</pregunta>
+    <respuesta>Ahhhh... ¡tú tampoco te lo explicas!</respuesta>
+  </chiste>
+  <chiste calificacion="malillo">
+    <respuesta>En que el elefante es un paquidermo y la cama es 'pakiduermas'</respuesta>
+    <pregunta>¿En que se parece un elefante a una cama?</pregunta>
+  </chiste>
+  <chiste calificacion="malo">
+    <respuesta>Subanestrujenbajen</respuesta>
+    <pregunta>¿Sabes cómo se dice "metro" en alemán?</pregunta>
+  </chiste>
+</humor>

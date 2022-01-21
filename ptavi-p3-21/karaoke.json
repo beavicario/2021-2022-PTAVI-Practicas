@@ -1,0 +1,74 @@
+[
+   {
+      "name": "root-layout",
+      "attrs": {
+         "width": "248",
+         "height": "300",
+         "background-color": "blue"
+      }
+   },
+   {
+      "name": "region",
+      "attrs": {
+         "id": "a",
+         "top": "20",
+         "left": "64"
+      }
+   },
+   {
+      "name": "region",
+      "attrs": {
+         "id": "b",
+         "top": "120",
+         "left": "20"
+      }
+   },
+   {
+      "name": "region",
+      "attrs": {
+         "id": "text_area",
+         "top": "100",
+         "left": "20"
+      }
+   },
+   {
+      "name": "img",
+      "attrs": {
+         "src": "http://www.content-networking.com/smil/hello.jpg",
+         "region": "a",
+         "begin": "2s",
+         "dur": "36s"
+      }
+   },
+   {
+      "name": "img",
+      "attrs": {
+         "src": "http://www.content-networking.com/smil/earthrise.jpg",
+         "region": "b",
+         "begin": "12s",
+         "end": "48s"
+      }
+   },
+   {
+      "name": "audio",
+      "attrs": {
+         "src": "http://www.content-networking.com/smil/hello.wav",
+         "begin": "1s"
+      }
+   },
+   {
+      "name": "textstream",
+      "attrs": {
+         "src": "http://gsyc.es/~grex/letra.rt",
+         "region": "text_area",
+         "fill": "freeze"
+      }
+   },
+   {
+      "name": "audio",
+      "attrs": {
+         "src": "cancion.ogg",
+         "begin": "4s"
+      }
+   }
+]
